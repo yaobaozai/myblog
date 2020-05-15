@@ -1,0 +1,1 @@
+[avatar](https://www.travis-ci.org/yaobaozai/myblog.svg)
